@@ -6,6 +6,16 @@
     margin: 0;
 
 }
+@media (min-width: 768px) {
+    .subtitle{
+        padding: 40px 24px 0 40px;
+       
+    }
+ }
+
 .green{
    color: #C0DF33; 
+}
+.top{
+    padding-top: 24px;
 }
