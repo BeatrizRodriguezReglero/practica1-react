@@ -1,0 +1,17 @@
+.text{
+    font-size: 14px;
+    color: white;
+    padding: 16px 24px 24px 24px;
+    margin: 0;
+    line-height: 25px;
+}
+
+.grey{
+   color: #9AA7BE;
+}
+.big{
+    font-size: 32px;
+}
+.bottom{
+    padding-bottom: 0px;
+}

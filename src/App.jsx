@@ -1,5 +1,8 @@
+import ContainerAll from "./components/container-all/ContainerAll";
+
+
 const App = () => {
-	return <h1>Núcleo de la aplicación</h1>;
+	return <ContainerAll/>;
 };
 
 export default App;
